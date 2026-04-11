@@ -1,3 +1,10 @@
+# 📊 Visualization Libraries Guide (Pandas & Seaborn)
+
+This project is part of my ShadowFox Internship. It demonstrates various visualization techniques using Pandas and Seaborn.
+
+**Name:** Jagruthi S  
+**Internship:** ShadowFox  
+
 **DATA VISUALIZATION**
 
 Data visualization is the graphical representation of data to help understand patterns, trends, and relationships. Python offers powerful libraries like Pandas and Seaborn to simplify data visualization and analysis.
