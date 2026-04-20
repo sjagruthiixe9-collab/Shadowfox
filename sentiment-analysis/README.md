@@ -48,6 +48,9 @@ The dataset contains:
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix.png)
 
+### Score Distribution
+![Score Distribution](images/distribution.png)
+
 ---
 
 ## 🔍 Insights
